@@ -1,0 +1,7 @@
+F:\Code\CSharp\WinCode\数码之家自动签到\autocheck.mydigit.cn\数码之家自动签到\bin\Debug\数码之家自动签到.exe.config
+F:\Code\CSharp\WinCode\数码之家自动签到\autocheck.mydigit.cn\数码之家自动签到\bin\Debug\数码之家自动签到.exe
+F:\Code\CSharp\WinCode\数码之家自动签到\autocheck.mydigit.cn\数码之家自动签到\bin\Debug\数码之家自动签到.pdb
+F:\Code\CSharp\WinCode\数码之家自动签到\autocheck.mydigit.cn\数码之家自动签到\obj\Debug\数码之家自动签到.csproj.CoreCompileInputs.cache
+F:\Code\CSharp\WinCode\数码之家自动签到\autocheck.mydigit.cn\数码之家自动签到\obj\Debug\数码之家自动签到.exe
+F:\Code\CSharp\WinCode\数码之家自动签到\autocheck.mydigit.cn\数码之家自动签到\obj\Debug\数码之家自动签到.pdb
+F:\Code\CSharp\WinCode\数码之家自动签到\autocheck.mydigit.cn\数码之家自动签到\obj\Debug\数码之家自动签到.csproj.AssemblyReference.cache
